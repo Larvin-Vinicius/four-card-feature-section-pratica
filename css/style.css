@@ -1,0 +1,23 @@
+@import "global.css";
+
+body {
+    margin: 0 auto;
+}
+
+header {
+    margin: 0 auto;
+    max-width: 40ch;
+}
+
+header, .description {
+    text-align: center;
+}
+
+header h2 {
+    font-size: 1.5rem;
+    font-weight: 200;
+}
+
+header span {
+    font-weight: 600;
+}
