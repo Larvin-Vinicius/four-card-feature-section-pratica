@@ -1,5 +1,5 @@
 
-#  Frontend Mentor - NFT preview card component solution
+#  Frontend Mentor - Four card feature section
 
 Esta é uma solução para o [# Four card feature section  challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
 
@@ -35,7 +35,7 @@ Os usuários devem ser capazes de:
 
 ###  Links
 
-- Solution URL: [Add solution URL here](https://github.com/Larvin-Vinicius/four-card-feature-section-pratica)
+- Solution URL: [Add solution URL here](https://github.com/Larvin-Vinicius/four-card-feature-section-praticle)
 
 - Live Site URL: [Add live site URL here](https://3cwgl.csb.app/)
 
